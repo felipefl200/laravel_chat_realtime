@@ -17,7 +17,6 @@ Demostração da utilização do Laravel com Vuejs, Pusher, Vuex, Laravel WebSoc
 - **[Laravel](https://laravel.com/)**
 - **[VueJS](https://vuejs.org/)**
 - **[Vuex](https://vuex.vuejs.org/)**
-- **[Vuex](https://vuex.vuejs.org/)**
 - **[Laravel WebSockets](https://docs.beyondco.de/laravel-websockets/)**
 
 ## Status
